@@ -230,4 +230,4 @@ This repository serves as the official landing page for Ghostery. The software i
 **Get the most recent version of Ghostery today!**
 
 ---
-**Last updated:** 2026-10-16 20:38:38 UTC
+**Last updated:** 2026-10-16 23:17:56 UTC
